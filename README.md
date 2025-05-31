@@ -1,7 +1,5 @@
 # Bus Ticket Booking System (NCC)
 
-![Project Preview](screenshot.png) <!-- Add a screenshot if available -->
-
 A comprehensive Bus Ticket Booking System developed as part of NCC education requirements. This system provides functionalities for both administrators and customers to manage and book bus tickets efficiently.
 
 ## Features
